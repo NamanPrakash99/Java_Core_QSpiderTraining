@@ -25,10 +25,11 @@
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textEntries">
-			<item value="1"/>
+			<item value="2"/>
 		</list>
 		<list key="textArray">
 			<item value="package e"/>
+			<item value="pack"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">

@@ -1,6 +1,6 @@
-# Java Training Repository - LPU
+# Java Training Repository
 
-A comprehensive Java programming repository containing practical examples, exercises, and implementations covering fundamental to advanced Java concepts. This repository serves as a learning resource for Java developers.
+A comprehensive Java programming repository containing practical examples, exercises, and implementations covering fundamental to advanced Java concepts. This repository serves as a learning resource for Java learners and developers.
 
 ## 📋 Table of Contents
 
@@ -54,6 +54,8 @@ This repository contains a comprehensive collection of Java programs organized b
 - **File Handling**: Reading and writing files, file operations
 - **Wrapper Classes**: Primitive to object conversions
 - **Object Class**: toString(), equals(), hashCode() implementations
+- **Multithreading**: Thread creation, synchronization, and inter-thread communication
+- **Regular Expressions (Regex)**: Pattern matching and input validation
 
 ### String Manipulation
 - 50+ string manipulation programs including:
@@ -78,17 +80,18 @@ This repository contains a comprehensive collection of Java programs organized b
 - **Type Casting**: Primitive and non-primitive type casting
 - **Anonymous Classes**: Inner class implementations
 - **Programming Assignments**: Week-wise assignments and tasks
+- **Practice Questions**: Additional practice problems and logical exercises
 
 ## 📁 Project Structure
 
 ```
-Java_Training_LPU/
+Java_Training/
 ├── src/
 │   ├── AbstractionInterface/
 │   ├── AnonymousClass/
 │   ├── arrays/
 │   ├── Collection_Queue/
-│   ├── Collections/              (LinkedList, Vector, Stack examples)
+│   ├── Collections/
 │   ├── Comparable/
 │   ├── Comparator/
 │   ├── DescisionStatement/
@@ -103,12 +106,15 @@ Java_Training_LPU/
 │   ├── loops/
 │   ├── methodchaining/
 │   ├── methods/
+│   ├── Multithreading/
 │   ├── NonPrimitiveUpcasting/
 │   ├── ObjectClass/
 │   ├── oopsFundamentals/
 │   ├── operator/
 │   ├── Polymorphism/
+│   ├── PractiseQuestions/
 │   ├── programming_1/
+│   ├── Regex/
 │   ├── strings/
 │   ├── TreeSet/
 │   ├── typeCasting/
@@ -135,8 +141,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/java-training-lpu.git
-cd java-training-lpu
+git clone https://github.com/yourusername/java-training.git
+cd java-training
 ```
 
 ### Compile Java Files
@@ -144,7 +150,7 @@ cd java-training-lpu
 Navigate to the source directory and compile:
 
 ```bash
-cd Java_Training_LPU/src
+cd Java_Training/src
 javac packageName/ClassName.java
 ```
 
@@ -196,6 +202,9 @@ Each package contains multiple Java files. To run a specific example:
 - **`oopsFundamentals/`**: Object-oriented programming basics
 - **`Inheritance/`**: Inheritance hierarchy examples
 - **`Polymorphism/`**: Polymorphism demonstrations
+- **`Multithreading/`**: Thread lifecycle, synchronization, and concurrent programming examples
+- **`Regex/`**: Regular expression usage for validation and text processing
+- **`PractiseQuestions/`**: Additional practice programs and logical questions
 
 ### Example Programs
 
@@ -204,16 +213,6 @@ Each package contains multiple Java files. To run a specific example:
 - **Collections**: LinkedList, Vector, Stack, List, Set, Map implementations with practical examples
 - **OOP**: Real-world examples like Vehicle hierarchy, Calculator implementations
 - **Exceptions**: Try-catch blocks, custom exceptions, exception propagation
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 Notes
 
