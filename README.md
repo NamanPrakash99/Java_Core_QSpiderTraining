@@ -28,11 +28,13 @@ This repository contains a comprehensive collection of Java programs organized b
 ## 📚 Topics Covered
 
 ### Core Java Fundamentals
+- **Basics of Java**: Scanner class, command line arguments, and basic console I/O
 - **Operators**: Arithmetic, logical, relational, and bitwise operators
 - **Decision Statements**: if-else, switch-case implementations
 - **Loops**: for, while, do-while loops with various examples
 - **Methods**: Method creation, overloading, and method chaining
 - **Arrays**: Single and multi-dimensional arrays with 35+ tasks
+- **Programming 1**: 25+ logical programming puzzles (Armstrong, Fibonacci, GCD, etc.)
 
 ### Object-Oriented Programming (OOP)
 - **OOP Fundamentals**: Classes, objects, constructors
@@ -90,6 +92,7 @@ Java_Training/
 │   ├── AbstractionInterface/
 │   ├── AnonymousClass/
 │   ├── arrays/
+│   ├── basics/
 │   ├── Collection_Queue/
 │   ├── Collections/
 │   ├── Comparable/
@@ -210,6 +213,7 @@ Each package contains multiple Java files. To run a specific example:
 
 - **Arrays**: Finding max/min, sorting, searching, matrix operations
 - **Strings**: Palindrome, anagram, word count, string reversal
+- **Programming 1**: Armstrong, Fibonacci, Happy Number, Duck Number, and more
 - **Collections**: LinkedList, Vector, Stack, List, Set, Map implementations with practical examples
 - **OOP**: Real-world examples like Vehicle hierarchy, Calculator implementations
 - **Exceptions**: Try-catch blocks, custom exceptions, exception propagation
@@ -225,14 +229,15 @@ Each package contains multiple Java files. To run a specific example:
 
 Recommended learning order:
 
-1. **Basics**: Start with `operator/`, `DescisionStatement/`, `loops/`
+1. **Basics**: Start with `operator/`, `DescisionStatement/`, `loops/`, `basics/`
 2. **Methods & Arrays**: `methods/`, `arrays/`
-3. **OOP Fundamentals**: `oopsFundamentals/`, `Encapsulation/`
-4. **Inheritance & Polymorphism**: `Inheritance/`, `Polymorphism/`
-5. **Abstraction**: `AbstractionInterface/`
-6. **Collections**: `Collections/`, `HashMap/`, `TreeSet/`
-7. **Advanced**: `exceptions/`, `FileHandling/`, `FunctionalProgramming/`
-8. **Practice**: `strings/`, `programming_1/`, `week1_Assignments/`
+3. **Logic Building**: `programming_1/`, `PractiseQuestions/`
+4. **OOP Fundamentals**: `oopsFundamentals/`, `Encapsulation/`
+5. **Inheritance & Polymorphism**: `Inheritance/`, `Polymorphism/`
+6. **Abstraction**: `AbstractionInterface/`
+7. **Collections**: `Collections/`, `HashMap/`, `TreeSet/`
+8. **Advanced**: `exceptions/`, `FileHandling/`, `FunctionalProgramming/`
+9. **Practice**: `strings/`, `week1_Assignments/`
 
 ---
 
